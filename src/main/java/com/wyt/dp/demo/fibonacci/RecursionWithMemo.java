@@ -12,7 +12,7 @@ import java.util.Map;
  * <p>
  * Created by wangyitao on 2019/5/6.
  */
-public class LoopAndMemo {
+public class RecursionWithMemo {
 
     static Map<Integer, Integer> map = new HashMap<>();
 

@@ -7,7 +7,7 @@ package com.wyt.dp.demo.fibonacci;
  * <p>
  * Created by wangyitao on 2019/5/6.
  */
-public class Loop {
+public class Recursion {
 
     public static void main(String[] args) {
         System.out.println(fn(10));
